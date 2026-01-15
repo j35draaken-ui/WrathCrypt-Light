@@ -1,0 +1,3 @@
+Do this to clear the shell history after each session when using secret code like this:
+Bash/Zsh (Linux/macOS): history -C
+PowerShell (Windows): Clear-History
